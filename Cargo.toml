@@ -2,12 +2,12 @@
 name = "tinyraytracer_rs"
 version = "0.1.0"
 edition = "2024"
-authors = ["Houssem Jarray houssemjarray315@gmail.com"]
+authors = ["Houssem Jarray <houssemjarray315@gmail.com>"]
 description = "A simple raytracer in pure Rust, converted from C++"
 license = "MIT"
 repository = "https://github.com/Houssem-Jarray/tinyraytracer_rs"
 readme = "README.md"
-categories = ["graphics", "rendering", "learning", "command-line-utilities"]
+categories = ["graphics", "rendering", "command-line-utilities"]
 keywords = ["raytracing", "graphics", "rust", "render", "3d"]
 
 [dependencies]
