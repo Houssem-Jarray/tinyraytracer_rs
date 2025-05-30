@@ -20,6 +20,6 @@ A basic ray tracer written in Rust 🦀. This project showcases how to build a m
 Clone and run the project:
 
 ```bash
-git clone https://github.com/Houssem-Jarray/raytrace-rs.git
-cd raytrace-rs
+git clone https://github.com/Houssem-Jarray/tinyraytracer_rs.git
+cd tinyraytracer_rs
 cargo run --release
