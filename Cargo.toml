@@ -1,6 +1,6 @@
 [package]
 name = "tinyraytracer_rs"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2024"
 authors = ["Houssem Jarray <houssemjarray315@gmail.com>"]
 description = "A simple raytracer in pure Rust, converted from C++"
