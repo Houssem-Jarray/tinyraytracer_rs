@@ -1,4 +1,4 @@
-# raytrace-rs
+# tinyraytracer_rs
 
 A basic ray tracer written in Rust 🦀. This project showcases how to build a minimal path-traced renderer from scratch, featuring:
 
